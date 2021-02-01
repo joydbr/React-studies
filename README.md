@@ -1,2 +1,3 @@
 # React-studies
-Created with CodeSandbox
+
+link para o projeto [aqui](https://nfhtv.csb.app/)
